@@ -1,0 +1,17 @@
+credentials.json
+token*.json
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.env
+.claude/
+.agents/
+PLAN.md
+CLAUDE.md
+skills-lock.json
