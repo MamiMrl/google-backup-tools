@@ -1,5 +1,16 @@
 credentials.json
 token*.json
+
+# Generated CSV artifacts (personal file paths, not source)
+manifest.csv
+drive_listing.csv
+comparison.csv
+upload_log.csv
+upload_selected_log.csv
+drive_files.csv
+drive_hierarchy.csv
+folder_audit.csv
+local_folders.csv
 __pycache__/
 *.pyc
 *.pyo
